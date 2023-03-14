@@ -1,0 +1,221 @@
+body {
+  background-color: #fffcfc;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  margin: 0;
+  position: 0;
+  color: rgb(12, 0, 0);
+  
+}
+ 
+
+
+ .giris{
+  background: #222;
+ }
+
+.giris p {
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+.giris h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  color:white 
+}
+
+
+.resim{
+  background:transparent;
+    padding:8px;
+    border:1px solid #ccc;
+    box-shadow:5px 5px 5px #999; 
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.topnav {
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #222;
+}
+.branding p {
+  color: #fff;
+  font-family: fantasy;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+.top-menu {
+  display: flex;
+}
+.top-menu a {
+  margin: 0 10px;
+  padding: 10px;
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 20px;
+}
+.top-menu a:hover {
+  border-bottom: 4px solid orange;
+}
+
+ .bilgi p{
+  font-size: 25px;
+  text-align: center;
+ }
+ .bilgi{
+  text-align: center;
+ }
+ 
+  .hak p{
+    text-align: center;
+    font-size: 20px;
+  }
+  .hak li{
+    font-size: 20px;
+  }
+  .hak{
+    text-align: center;
+    
+  }
+
+
+
+figure.snip1113 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 280px;
+  max-width: 310px;
+  width: 100%;
+  background: #ffffff;
+  text-align: center;
+  box-shadow: 0 0 5px rgba(248, 246, 246, 0.15);
+}
+
+figure.snip1113 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+figure.snip1113 img {
+  max-width: 65%;
+  margin: 40px auto;
+  display: block;
+  position: relative;
+  border: 3px solid #666666;
+  padding: 15px 15px 85px 15px;
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+  
+}
+
+figure.snip1113 figcaption {
+  position: absolute;
+  height: 120px;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  display: block;
+  
+}
+
+figure.snip1113 h3 {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 1.7em;
+  width: 100%;
+  padding: 5px 12px;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+figure.snip1113 h3 span {
+  font-weight: 800;
+}
+
+figure.snip1113 h4 {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  opacity: 0.6;
+  font-size: 1.1em;
+}
+
+figure.snip1113.blue img {
+  border-color: #2472a4;
+}
+
+figure.snip1113.blue h3,
+figure.snip1113.blue h4 {
+  color: #2472a4;
+}
+
+figure.snip1113.red img {
+  border-color: #ab3326;
+}
+
+figure.snip1113.red h3,
+figure.snip1113.red h4 {
+  color: #ab3326;
+}
+
+figure.snip1113.yellow img {
+  border-color: #e08e0b;
+}
+
+figure.snip1113.yellow h3,
+figure.snip1113.yellow h4 {
+  color: #e08e0b;
+}
+
+figure.snip1113.green img {
+  border-color: #229955;
+}
+
+figure.snip1113.green h3,
+figure.snip1113.green h4 {
+  color: #229955;
+}
+
+figure.snip1113.orange img {
+  border-color: #d67118;
+}
+
+figure.snip1113.orange h3,
+figure.snip1113.orange h4 {
+  color: #d67118;
+}
+
+figure.snip1113.navy img {
+  border-color: #2b3c4e;
+}
+
+figure.snip1113.navy h3,
+figure.snip1113.navy h4 {
+  color: #2b3c4e;
+}
+
+
+
+
+
+
+
+
+
